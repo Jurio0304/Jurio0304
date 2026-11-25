@@ -39,5 +39,3 @@
 ## 📊 GitHub Activity
 
 [![Cumulative GitHub stars from December 2025 to November 2026](./github-stars.png)](https://github.com/Jurio0304?tab=repositories)
-
-*Public, non-fork repositories · Three samples per month · Snapshot: Nov 25, 2026*
