@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yao Jia</h1>
 
-<!--
-**Jurio0304/Jurio0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Ph.D. Student in Computer Science and Technology</strong><br>
+  Zhejiang University
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Jurio0304"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://orcid.org/0000-0003-3118-3885"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-3F6212?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"></a>
+  <a href="https://jurio.blog.csdn.net/"><img alt="CSDN Blog" src="https://img.shields.io/badge/CSDN_Blog-9A3412?style=for-the-badge&amp;logo=csdn&amp;logoColor=white"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+- 🧠 **Neural-to-Language Decoding** — Recovering speech and text from brain activity.
+- 🎙️ **Multimodal Representation Learning** — Aligning neural, acoustic, and linguistic representations.
+- 🔬 **Neural Foundation Models** — Pretraining models on neural recordings for transfer across people, sessions, and tasks.
+- 💬 **Large Language Models** — Studying how language models use context and prior knowledge for reasoning and generation.
+- 🤖 **AI Agents** — Building agents that plan, use tools, and adapt based on feedback.
+
+## 📄 Publications
+
+- **MOST-OPSD: Dual-Level Speech-Prior Distillation for High-Performance Language BCIs**  
+  **Y. Jia**, X. Tan, X. Yang, B. Luo, Y. Wang, Y. Qi  
+  *ICLR 27 Submission* · Review scores **4 / 3 / 3** · Estimated rank **Top 0.7–3.5%** · [OpenReview](https://openreview.net/forum?id=8OuDiCC4lw)
+- **Improving Neural Decoding Performance for Language BCIs by Explicitly Modeling Context-Induced Noise**  
+  **Y. Jia**, X. Tan, B. Luo, Y. Wang, Y. Qi  
+  *NeurIPS 2026 Poster* · [Paper](https://neurips.cc/virtual/2026/loc/sydney/poster/148927)
+- **State-Dependent Neural Decoding of Complex Handwriting via Mixture of Experts With Recurrent Routing**  
+  L. Wang, X. Yang, X. Xiong, **Y. Jia**, Y. Wang, Y. Qi  
+  *IEEE Transactions on Cognitive and Developmental Systems*, 18(3), 655–665, 2026 · [Paper](https://ieeexplore.ieee.org/document/11297164/)
+- **Learning discrete neural latent spaces for high-performance speech decoding**  
+  **Y. Jia**, Q. Lian, L. Wang, Y. Wang, Y. Qi  
+  *Journal of Neural Engineering*, 22(6), 066039, 2025 · [Paper](https://doi.org/10.1088/1741-2552/ae2ccd)
+
+## 📊 GitHub Activity
+
+[![Cumulative GitHub stars from December 2025 to November 2026](./github-stars.png)](https://github.com/Jurio0304?tab=repositories)
+
+*Public, non-fork repositories · Three samples per month · Snapshot: Nov 25, 2026*
