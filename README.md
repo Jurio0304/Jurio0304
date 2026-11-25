@@ -23,9 +23,8 @@
 
 ## 📄 Publications
 
-- **MOST-OPSD: Dual-Level Speech-Prior Distillation for High-Performance Language BCIs**  
-  **Y. Jia**, X. Tan, X. Yang, B. Luo, Y. Wang, Y. Qi  
-  *ICLR 27 Submission* · Review scores **4 / 3 / 3** · Estimated rank **Top 0.7–3.5%** · [OpenReview](https://openreview.net/forum?id=8OuDiCC4lw)
+- One research paper submitted to *ICLR 27*.  
+  *ICLR 27 Submission* · Review scores **4 / 3 / 3** · Estimated rank **Top 0.7–3.5%**
 - **Improving Neural Decoding Performance for Language BCIs by Explicitly Modeling Context-Induced Noise**  
   **Y. Jia**, X. Tan, B. Luo, Y. Wang, Y. Qi  
   *NeurIPS 2026 Poster* · [Paper](https://neurips.cc/virtual/2026/loc/sydney/poster/148927)
