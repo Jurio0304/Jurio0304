@@ -37,4 +37,4 @@
 
 ## 📊 GitHub Activity
 
-[![Cumulative GitHub stars from December 2025 to November 2026](./github-stars.png)](https://github.com/Jurio0304?tab=repositories)
+[![GitHub stars across my public repositories over the last 12 months](./github-stars.png)](https://github.com/Jurio0304?tab=repositories)
