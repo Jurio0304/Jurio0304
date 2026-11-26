@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jurio0304"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://jurio0304.github.io/"><img alt="Personal Website" src="https://img.shields.io/badge/Personal_Website-003f88?style=for-the-badge"></a>
   <a href="https://orcid.org/0000-0003-3118-3885"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-3F6212?style=for-the-badge&amp;logo=orcid&amp;logoColor=white"></a>
   <a href="https://jurio.blog.csdn.net/"><img alt="CSDN Blog" src="https://img.shields.io/badge/CSDN_Blog-9A3412?style=for-the-badge&amp;logo=csdn&amp;logoColor=white"></a>
 </p>
